@@ -68,6 +68,14 @@ a {
     width: 100%;
     margin-left: 20px;
 }
+.news-link {
+    background-color: #864319;
+    color: #FFFAF0;
+    height: 50px;
+    line-height:50px;
+    font-size: 30px;
+    width: 100%;
+}
 .main-container {
     background-color: #FFFAF0;
     width: 100%;
@@ -99,12 +107,48 @@ a {
     width:450px;
     font-size: 30px;
 }
+.text-headline {
+    position:relative;
+    top: -300px;
+    left: 590px;
+    width:450px;
+    font-size: 30px;
+}
 .fake-news {
     position:relative;
     top: 30px;
-    width: 880px;
+    width: 70%;
     height: 440px,
 }
 .fake-news:hover {
     cursor: pointer;
+}
+.text-container:hover {
+    background-color: gainsboro;
+}
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text-container-notizia {
+    position:relative;
+    background-color: White;
+    width: 70%;
+    box-shadow: 1 1 1 rgba(red, green, blue, alpha);
+    border-radius: 2px;
+    position:relative;
+    left: 200px;
+    height:1440px;
+}
+.text-title {
+    margin:20px;
+}
+.text {
+    margin:20px;
+}
+#im1{
+    display: block;
+     margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
