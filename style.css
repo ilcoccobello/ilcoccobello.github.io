@@ -5,7 +5,7 @@ body {
 }
 footer {
     background-color: #D48C57;
-    width: 100%;
+    width: 100vw;
     height: 150px;
 }
 .website-credits {
@@ -49,7 +49,7 @@ a {
     font-size: 50px;
     line-height:100px;
     text-align:center;
-    width: 100%;
+    width: 100vw;
 }
 .nav-bar {
     background-color: #864319;
@@ -57,7 +57,7 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
 }
 .home-link {
     background-color: #864319;
@@ -65,8 +65,8 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
-    margin-left: 20pxv;
+    width: 100vw;
+    margin-left: 20px;
 }
 .news-link {
     background-color: #864319;
@@ -74,7 +74,7 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
 }
 .info-link {
     background-color: #864319;
@@ -82,17 +82,17 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
     text-align:right;
 }
 .main-container {
     background-color: #FFFAF0;
-    width: 100%;
+    width: 100vw;
 }
 .text-container {
     position:relative;
     background-color: White;
-    width: 70%v;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
     border-radius: 2px;
     position:relative;
@@ -101,7 +101,7 @@ a {
 }
 #news {
     margin: 0;
-    margin-left: 20pxv;
+    margin-left: 20px;
     font-family: 'Gilroy-Medium', sans-serif;
 }
 .thumbnail {
@@ -126,7 +126,7 @@ a {
 .fake-news {
     position:relative;
     top: 30px;
-    width: 70%;
+    width: 70vw;
     height: 440px,
 }
 .fake-news:hover {
@@ -142,12 +142,12 @@ a:hover {
 .text-container-notizia {
     position:relative;
     background-color: White;
-    width: 70%;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
     border-radius: 2px;
     position:relative;
     left: 200px;
-    height:210%;
+    height:250vh;
 }
 .text-title {
     margin:20px;
@@ -159,7 +159,7 @@ a:hover {
     display: block;
      margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 50vw;
 }
 
 
@@ -176,7 +176,7 @@ body {
 }
 footer {
     background-color: #D48C57;
-    width: 100%;
+    width: 100vw;
     height: 150px;
 }
 .website-credits {
@@ -220,7 +220,7 @@ a {
     font-size: 50px;
     line-height:100px;
     text-align:center;
-    width: 100%;
+    width: 100vw;
 }
 .nav-bar {
     background-color: #864319;
@@ -228,7 +228,7 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
 }
 .home-link {
     background-color: #864319;
@@ -236,7 +236,7 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
     margin-left: 20px;
 }
 .news-link {
@@ -245,7 +245,7 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
 }
 .info-link {
     background-color: #864319;
@@ -253,17 +253,17 @@ a {
     height: 50px;
     line-height:50px;
     font-size: 30px;
-    width: 100%;
+    width: 100vw;
     text-align:right;
 }
 .main-container {
     background-color: #FFFAF0;
-    width: 100%;
+    width: 100vw;
 }
 .text-container {
     position:relative;
     background-color: White;
-    width: 70%;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
     border-radius: 2px;
     position:relative;
@@ -297,7 +297,7 @@ a {
 .fake-news {
     position:relative;
     top: 30px;
-    width: 70%;
+    width: 70vw;
     height: 440px,
 }
 .fake-news:hover {
@@ -313,12 +313,12 @@ a:hover {
 .text-container-notizia {
     position:relative;
     background-color: White;
-    width: 70%;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
     border-radius: 2px;
     position:relative;
     left: 200px;
-    height:210%;
+    height:250vh;
 }
 .text-title {
     margin:20px;
@@ -330,7 +330,7 @@ a:hover {
     display: block;
      margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 50vw;
 }
 }
 
