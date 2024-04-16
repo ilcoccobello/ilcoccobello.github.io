@@ -1,3 +1,4 @@
+@media only screen and (min-width: 768px) {
 body {
     font-family: 'Gilroy-Medium', sans-serif;
     margin: 0;
@@ -39,7 +40,7 @@ a {
 }
 .license {
     position:relative;
-    left: 1100px;
+    left: 800px;
     top: -170px;
 }
 .logo-intro {
@@ -161,14 +162,14 @@ a:hover {
     margin-right: auto;
     width: 50vw;
 }
+}
 
 
 
 
 
 
-
-@media screen and (min-width: 768px) {
+@media only screen and (min-width: 992px) {
 body {
     font-family: 'Gilroy-Medium', sans-serif;
     margin: 0;
