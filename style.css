@@ -6,31 +6,31 @@ body {
 }
 footer {
     background-color: #D48C57;
-    width: 100vw*2;
-    height: 150px*2;
+    width: 100vw;
+    height: 150px;
 }
 .website-credits {
-    font-size: 16px*2;
+    font-size: 16px;
     font-family: 'Gilroy-Regular', sans-serif;
 }
 .icon-credits {
     position:relative;
-    top: -40px*2;
-    font-size: 16px*2;
+    top: -40px;
+    font-size: 16px;
     font-family: 'Gilroy-Regular', sans-serif;
 }
 .credits {
     position:relative;
-    left: 150px*2;
-    top: -80px*2;
-    width:450px*2;
-    font-size: 20px*2;
+    left: 150px;
+    top: -80px;
+    width:450px;
+    font-size: 20px;
     font-family: 'Gilroy-Bold', sans-serif;
 }
 .logo-img {
     position:relative;
-    left: 20px*2;
-    top: 25px*2;
+    left: 20px;
+    top: 25px;
 }
 .icon-link {
     color: black;
@@ -40,95 +40,95 @@ a {
 }
 .license {
     position:relative;
-    left: 800px*2;
-    top: -170px*2;
+    left: 600px;
+    top: -170px;
 }
 .logo-intro {
     background-color: #47200F;
     color: #FFFAF0;
-    height: 100px*2;
-    font-size: 50px*2;
-    line-height:100px*2;
+    height: 100px;
+    font-size: 50px;
+    line-height:100px;
     text-align:center;
-    width: 100vw*2;
+    width: 100vw;
 }
 .nav-bar {
     background-color: #864319;
     color: #FFFAF0;
-    height: 50px*2;
-    line-height:50px*2;
-    font-size: 30px*2;
-    width: 100vw*2;
+    height: 50px;
+    line-height:50px;
+    font-size: 30px;
+    width: 100vw;
 }
 .home-link {
     background-color: #864319;
     color: #FFFAF0;
-    height: 50px*2;
-    line-height:50px*2;
-    font-size: 30px*2;
-    width: 100vw*2;
-    margin-left: 20px*2;
+    height: 50px;
+    line-height:50px;
+    font-size: 30px;
+    width: 100vw;
+    margin-left: 20px;
 }
 .news-link {
     background-color: #864319;
     color: #FFFAF0;
-    height: 50px*2;
-    line-height:50px*2;
-    font-size: 30px*2;
-    width: 100vw*2;
+    height: 50px;
+    line-height:50px;
+    font-size: 30px;
+    width: 100vw;
 }
 .info-link {
     background-color: #864319;
     color: #FFFAF0;
-    height: 50px*2;
-    line-height:50px*2;
-    font-size: 30px*2;
-    width: 100vw*2;
+    height: 50px;
+    line-height:50px;
+    font-size: 30px;
+    width: 100vw;
     text-align:right;
 }
 .main-container {
     background-color: #FFFAF0;
-    width: 100vw*2;
+    width: 100vw;
 }
 .text-container {
     position:relative;
     background-color: White;
-    width: 70vw*2;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
-    border-radius: 2px*2;
+    border-radius: 2px;
     position:relative;
-    left: 200px*2;
-    height:1440px*2;
+    left: 200px;
+    height:1440px;
 }
 #news {
     margin: 0;
-    margin-left: 20px*2;
+    margin-left: 20px;
     font-family: 'Gilroy-Medium', sans-serif;
 }
 .thumbnail {
-    margin: 20px*2;
+    margin: 20px;
     position:relative;
-    top: -20px*2;
+    top: -20px;
 }
 .headline {
     position:relative;
-    top: -300px*2;
-    left: 590px*2;
-    width:450px*2;
-    font-size: 30px*2;
+    top: -300px;
+    left: 590px;
+    width:450px;
+    font-size: 30px;
 }
 .text-headline {
     position:relative;
-    top: -300px*2;
-    left: 590px*2;
-    width:450px*2;
-    font-size: 30px*2;
+    top: -300px;
+    left: 590px;
+    width:450px;
+    font-size: 30px;
 }
 .fake-news {
     position:relative;
-    top: 30px*2;
-    width: 70vw*2;
-    height: 440px*2,
+    top: 30px;
+    width: 70vw;
+    height: 440px,
 }
 .fake-news:hover {
     cursor: pointer;
@@ -143,24 +143,24 @@ a:hover {
 .text-container-notizia {
     position:relative;
     background-color: White;
-    width: 70vw*2;
+    width: 70vw;
     box-shadow: 1 1 1 rgba(red, green, blue, alpha);
-    border-radius: 2px*2;
+    border-radius: 2px;
     position:relative;
-    left: 200px*2;
-    height:250vh*2;
+    left: 200px;
+    height:250vh;
 }
 .text-title {
-    margin:20px*2;
+    margin:20px;
 }
 .text {
-    margin:20px*2;
+    margin:20px;
 }
 #im1{
     display: block;
      margin-left: auto;
     margin-right: auto;
-    width: 50vw*2;
+    width: 50vw;
 }
 }
 
@@ -181,31 +181,31 @@ a:hover {
     }
     footer {
         background-color: #D48C57;
-        width: 100vw*2;
-        height: 150px*2;
+        width: 100vw;
+        height: 150px;
     }
     .website-credits {
-        font-size: 16px*2;
+        font-size: 16px;
         font-family: 'Gilroy-Regular', sans-serif;
     }
     .icon-credits {
         position:relative;
-        top: -40px*2;
-        font-size: 16px*2;
+        top: -40px;
+        font-size: 16px;
         font-family: 'Gilroy-Regular', sans-serif;
     }
     .credits {
         position:relative;
-        left: 150px*2;
-        top: -80px*2;
-        width:450px*2;
-        font-size: 20px*2;
+        left: 150px;
+        top: -80px;
+        width:450px;
+        font-size: 20px;
         font-family: 'Gilroy-Bold', sans-serif;
     }
     .logo-img {
         position:relative;
-        left: 20px*2;
-        top: 25px*2;
+        left: 20px;
+        top: 25px;
     }
     .icon-link {
         color: black;
@@ -215,95 +215,95 @@ a:hover {
     }
     .license {
         position:relative;
-        left: 800px*2;
-        top: -170px*2;
+        left: 800px;
+        top: -170px;
     }
     .logo-intro {
         background-color: #47200F;
         color: #FFFAF0;
-        height: 100px*2;
-        font-size: 50px*2;
-        line-height:100px*2;
+        height: 100px;
+        font-size: 50px;
+        line-height:100px;
         text-align:center;
-        width: 100vw*2;
+        width: 100vw;
     }
     .nav-bar {
         background-color: #864319;
         color: #FFFAF0;
-        height: 50px*2;
-        line-height:50px*2;
-        font-size: 30px*2;
-        width: 100vw*2;
+        height: 50px;
+        line-height:50px;
+        font-size: 30px;
+        width: 100vw;
     }
     .home-link {
         background-color: #864319;
         color: #FFFAF0;
-        height: 50px*2;
-        line-height:50px*2;
-        font-size: 30px*2;
-        width: 100vw*2;
-        margin-left: 20px*2;
+        height: 50px;
+        line-height:50px;
+        font-size: 30px;
+        width: 100vw;
+        margin-left: 20px;
     }
     .news-link {
         background-color: #864319;
         color: #FFFAF0;
-        height: 50px*2;
-        line-height:50px*2;
-        font-size: 30px*2;
-        width: 100vw*2;
+        height: 50px;
+        line-height:50px;
+        font-size: 30px;
+        width: 100vw;
     }
     .info-link {
         background-color: #864319;
         color: #FFFAF0;
-        height: 50px*2;
-        line-height:50px*2;
-        font-size: 30px*2;
-        width: 100vw*2;
+        height: 50px;
+        line-height:50px;
+        font-size: 30px;
+        width: 100vw;
         text-align:right;
     }
     .main-container {
         background-color: #FFFAF0;
-        width: 100vw*2;
+        width: 100vw;
     }
     .text-container {
         position:relative;
         background-color: White;
-        width: 70vw*2;
+        width: 70vw;
         box-shadow: 1 1 1 rgba(red, green, blue, alpha);
-        border-radius: 2px*2;
+        border-radius: 2px;
         position:relative;
-        left: 200px*2;
-        height:1440px*2;
+        left: 200px;
+        height:1440px;
     }
     #news {
         margin: 0;
-        margin-left: 20px*2;
+        margin-left: 20px;
         font-family: 'Gilroy-Medium', sans-serif;
     }
     .thumbnail {
-        margin: 20px*2;
+        margin: 20px;
         position:relative;
-        top: -20px*2;
+        top: -20px;
     }
     .headline {
         position:relative;
-        top: -300px*2;
-        left: 590px*2;
-        width:450px*2;
-        font-size: 30px*2;
+        top: -300px;
+        left: 590px;
+        width:450px;
+        font-size: 30px;
     }
     .text-headline {
         position:relative;
-        top: -300px*2;
-        left: 590px*2;
-        width:450px*2;
-        font-size: 30px*2;
+        top: -300px;
+        left: 590px;
+        width:450px;
+        font-size: 30px;
     }
     .fake-news {
         position:relative;
-        top: 30px*2;
-        width: 70vw*2;
-        height: 440px*2,
+        top: 30px;
+        width: 70vw;
+        height: 440px,
     }
     .fake-news:hover {
         cursor: pointer;
@@ -318,24 +318,24 @@ a:hover {
     .text-container-notizia {
         position:relative;
         background-color: White;
-        width: 70vw*2;
+        width: 70vw;
         box-shadow: 1 1 1 rgba(red, green, blue, alpha);
-        border-radius: 2px*2;
+        border-radius: 2px;
         position:relative;
-        left: 200px*2;
-        height:250vh*2;
+        left: 200px;
+        height:250vh;
     }
     .text-title {
-        margin:20px*2;
+        margin:20px;
     }
     .text {
-        margin:20px*2;
+        margin:20px;
     }
     #im1{
         display: block;
          margin-left: auto;
         margin-right: auto;
-        width: 50vw*2;
+        width: 50vw;
     }
     }
 
